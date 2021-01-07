@@ -1,0 +1,11 @@
+C:\Users\higor\source\repos\ConsoleEF\ConsoleEF\bin\Debug\netcoreapp2.1\ConsoleEF.deps.json
+C:\Users\higor\source\repos\ConsoleEF\ConsoleEF\bin\Debug\netcoreapp2.1\ConsoleEF.runtimeconfig.json
+C:\Users\higor\source\repos\ConsoleEF\ConsoleEF\bin\Debug\netcoreapp2.1\ConsoleEF.runtimeconfig.dev.json
+C:\Users\higor\source\repos\ConsoleEF\ConsoleEF\bin\Debug\netcoreapp2.1\ConsoleEF.dll
+C:\Users\higor\source\repos\ConsoleEF\ConsoleEF\bin\Debug\netcoreapp2.1\ConsoleEF.pdb
+C:\Users\higor\source\repos\ConsoleEF\ConsoleEF\obj\Debug\netcoreapp2.1\ConsoleEF.csproj.CoreCompileInputs.cache
+C:\Users\higor\source\repos\ConsoleEF\ConsoleEF\obj\Debug\netcoreapp2.1\ConsoleEF.AssemblyInfoInputs.cache
+C:\Users\higor\source\repos\ConsoleEF\ConsoleEF\obj\Debug\netcoreapp2.1\ConsoleEF.AssemblyInfo.cs
+C:\Users\higor\source\repos\ConsoleEF\ConsoleEF\obj\Debug\netcoreapp2.1\ConsoleEF.dll
+C:\Users\higor\source\repos\ConsoleEF\ConsoleEF\obj\Debug\netcoreapp2.1\ConsoleEF.pdb
+C:\Users\higor\source\repos\ConsoleEF\ConsoleEF\obj\Debug\netcoreapp2.1\ConsoleEF.csprojAssemblyReference.cache
